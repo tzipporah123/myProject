@@ -1,0 +1,6 @@
+.image {background-image: url("https://images.unsplash.com/photo-1500964757637-c85e8a162699?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NDF8fGNvbG9yc3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"); 
+  height: 100vh;
+  background-position:top center; 
+  background-repeat: repeat; 
+  background-size: cover; 
+  overflow-y: scroll;}
